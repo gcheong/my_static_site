@@ -1,0 +1,1 @@
+python3 src/main.py "/my_static_site/"
